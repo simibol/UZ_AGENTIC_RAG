@@ -1,0 +1,8 @@
+flask
+openai
+pinecone-client
+python-dotenv
+requests
+llama-index
+gunicorn
+flask-cors
